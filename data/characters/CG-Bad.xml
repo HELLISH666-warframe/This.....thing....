@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="CG_Bad" icon="cg" color="#645fd7" x="30" y="350" camx="150" camy="-260">
+	<anim name="idle" anim="idle" x="-37" y="139" loop="true"/>
+	<anim name="singRIGHT" anim="right" x="-38" y="147"/>
+	<anim name="singUP" anim="up" x="-70" y="197"/>
+	<anim name="singLEFT" anim="left" x="64" y="140"/>
+	<anim name="singDOWN" anim="down" x="-48" y="98"/>
+	<anim name="singLEFT-alt" anim="glitchLEFT" x="310" y="320"/>
+	<anim name="singUP-alt" anim="glitchUP" x="129" y="266"/>
+	<anim name="singDOWN-alt" anim="glitchDOWN" x="0" y="150"/>
+	<anim name="singRIGHT-alt" anim="glitchIGHT" x="150" y="20"/>
+</character>

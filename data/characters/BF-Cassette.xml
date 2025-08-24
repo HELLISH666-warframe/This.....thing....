@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="BF_Cassette" icon="bf" color="#31b0d1" y="350" flipX="true" camx="110" camy="-110">
+	<anim name="singLEFT" anim="left" x="-15" y="-7"/>
+	<anim name="singDOWN" anim="down" x="-40" y="-42"/>
+	<anim name="singUP" anim="up" x="-62" y="34"/>
+	<anim name="singRIGHT" anim="right" x="-52" y="-7"/>
+	<anim name="singDOWNmiss" anim="missDOWN" x="-45" y="-11"/>
+	<anim name="singUPmiss" anim="missUP" x="-55" y="48"/>
+	<anim name="singRIGHTmiss" anim="missRIGHT" x="-47" y="24"/>
+	<anim name="singLEFTmiss" anim="missLEFT" x="-10" y="22"/>
+	<anim name="idle" anim="idle" x="-5" y="-6" loop="true"/>
+	<anim name="shocked" anim="shock" x="55" y="42"/>
+	<anim name="deathConfirm" anim="deadConfirm" x="9" y="-6"/>
+	<anim name="firstDeath" anim="BF dies"/>
+	<anim name="deathLoop" anim="deadLoop" x="79" y="-37" loop="true"/>
+</character>

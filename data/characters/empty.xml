@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="empty" icon="gf" color="#a5004d" x="300" y="400" camx="-180">
+	<anim name="danceRight" anim="emptySpeaker" x="100" y="-9" indices="15..29"/>
+	<anim name="danceLeft" anim="emptySpeaker" x="100" y="-9" indices="30,0..14"/>
+</character>

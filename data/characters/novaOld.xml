@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="nova" icon="novaold" color="#66cecc" x="20" y="350" flipX="true" camx="90" camy="-90">
+	<anim name="singUP" anim="Nova Up" x="-20" y="88"/>
+	<anim name="singLEFT" anim="Nova Left" x="30" y="52"/>
+	<anim name="singDOWN" anim="Nova Down" x="10" y="-10"/>
+	<anim name="singRIGHT" anim="Nova Right" x="-32" y="72"/>
+	<anim name="singLEFTmiss" anim="Left Miss" x="30" y="100"/>
+	<anim name="singDOWNmiss" anim="Down Miss" x="8" y="30"/>
+	<anim name="singUPmiss" anim="Up Miss" x="-19" y="107"/>
+	<anim name="singRIGHTmiss" anim="Right Miss" x="-29" y="122"/>
+	<anim name="tf" anim="UHH" x="-11" y="76"/>
+	<anim name="idle" anim="Ryan Idle" x="-5" y="70" loop="true"/>
+</character>

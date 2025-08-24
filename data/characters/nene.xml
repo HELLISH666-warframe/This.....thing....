@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="neneHaha" icon="gf" color="#a5004d" x="310" y="10" camx="-180">
+	<anim name="danceRight" anim="nene" x="100" y="-9" indices="15..29"/>
+	<anim name="danceLeft" anim="nene" x="100" y="-9" indices="30,0..14"/>
+	<anim name="kiss" anim="neneKiss" x="99" y="-10"/>
+</character>

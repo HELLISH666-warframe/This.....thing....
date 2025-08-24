@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="Cassy_Bike2" icon="novabike2" color="#ffb0ff" x="-180" y="270" flipX="true" camx="490" camy="-438" scale="1.2">
+	<anim name="singLEFT" anim="left" x="21.666666666666668" y="310.83333333333337"/>
+	<anim name="singUP" anim="up" x="4.166666666666667" y="324.1666666666667"/>
+	<anim name="singRIGHT" anim="right" x="-3.3333333333333335" y="307.5"/>
+	<anim name="idle" anim="idle" x="5.833333333333334" y="303.33333333333337" loop="true"/>
+	<anim name="singDOWN" anim="down" x="8.333333333333334" y="291.6666666666667"/>
+	<anim name="death" anim="fallOff" x="206.66666666666669" y="408.33333333333337"/>
+	<anim name="shoot" anim="blammed" x="226.66666666666669" y="309.1666666666667"/>
+	<anim name="yeah" anim="yeahh" x="72.5" y="505.83333333333337"/>
+	<anim name="firstDeath" anim="firstDeath"/>
+	<anim name="deathConfirm" anim="deadConfirm" x="14.166666666666668" y="60"/>
+	<anim name="deathLoop" anim="deadLoop" x="-45" y="-4.166666666666667" loop="true"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="stalker_ass_sets" icon="stalker" color="#879bff" x="120" y="400" camx="-250" camy="-170">
+	<anim name="singUP" anim="up" x="85" y="167"/>
+	<anim name="singDOWN" anim="down" x="-10" y="106"/>
+	<anim name="singRIGHT" anim="right" x="-39" y="91"/>
+	<anim name="singLEFT" anim="left" x="59" y="144"/>
+	<anim name="idle" anim="idle" x="15" y="151" loop="true"/>
+	<anim name="ugh" anim="UGH" x="60" y="163"/>
+</character>

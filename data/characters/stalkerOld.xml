@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="crazy" icon="starbucksold" color="#980165" x="20" y="30" camx="50" camy="-90">
+	<anim name="singUP" anim="Crazy Up" x="100" y="158"/>
+	<anim name="singLEFT" anim="Crazy Left" x="221" y="242"/>
+	<anim name="singDOWN" anim="Crazy Down" x="-50" y="50"/>
+	<anim name="singRIGHT" anim="Crazy Right" x="-72" y="72"/>
+	<anim name="idle" anim="Crazy Idle" x="-5" y="70" loop="true"/>
+</character>

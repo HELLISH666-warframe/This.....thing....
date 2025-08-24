@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="goon" icon="goon" color="#66cc99" x="40" y="380" antialiasing="false" camx="30" camy="-200">
+	<anim name="idle" anim="idle" x="-7" y="239" loop="true"/>
+	<anim name="singUP" anim="up" x="-52" y="311"/>
+	<anim name="singLEFT" anim="left" x="64" y="252"/>
+	<anim name="singRIGHT" anim="right" x="-82" y="111"/>
+	<anim name="singDOWN" anim="down" x="21" y="1"/>
+</character>

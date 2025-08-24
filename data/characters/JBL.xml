@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="JBL_Speakers" icon="gf" color="#e50059" x="330" y="350">
+	<anim name="danceRight" anim="GF Dancing Beat" indices="15..29"/>
+	<anim name="danceLeft" anim="GF Dancing Beat" indices="30,0..14"/>
+</character>

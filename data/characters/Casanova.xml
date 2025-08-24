@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="Casanova_Assets" icon="casanova" color="#ffb0ff" y="370" flipX="true" camx="160" camy="-140">
+	<anim name="idle" anim="Idle" x="35" y="140" loop="true"/>
+	<anim name="singLEFT" anim="left" x="128" y="143"/>
+	<anim name="singDOWN" anim="down" x="110" y="7"/>
+	<anim name="singUP" anim="up" x="3" y="187"/>
+	<anim name="singRIGHT" anim="right" x="95" y="91"/>
+	<anim name="singLEFTmiss" anim="miss left" x="139" y="142"/>
+	<anim name="singRIGHTmiss" anim="miss right" x="102" y="132"/>
+	<anim name="singDOWNmiss" anim="miss down" x="110" y="17"/>
+	<anim name="singUPmiss" anim="miss up" x="20" y="184"/>
+	<anim name="firstDeath" anim="firstDeath" x="46" y="-6"/>
+	<anim name="deathLoop" anim="deadLoop" x="32" y="-6" loop="true"/>
+	<anim name="deathConfirm" anim="deadConfirm" x="57" y="68"/>
+	<anim name="nuts" anim="grab" x="39" y="140"/>
+	<anim name="hey" anim="ouu lala" x="315" y="868"/>
+	<anim name="aye" anim="hey" x="95" y="159"/>
+	<anim name="dodge" anim="dodge" x="0" y="110"/>
+</character>

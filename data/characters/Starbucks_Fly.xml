@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="noPumpkinSpice" icon="stephbike" color="#660033" x="190" y="-200" camx="-320" camy="-130" scale="0.6">
+	<anim name="idle" anim="idle" x="491.6666666666667" y="251.66666666666669" loop="true"/>
+	<anim name="shot" anim="hurt" x="546.6666666666667" y="470"/>
+	<anim name="singUP" anim="up" x="420" y="361.6666666666667"/>
+	<anim name="singDOWN" anim="down" x="416.6666666666667" y="271.6666666666667"/>
+	<anim name="singLEFT" anim="left" x="681.6666666666667" y="473.33333333333337"/>
+	<anim name="singRIGHT" anim="right" x="301.6666666666667" y="240"/>
+	<anim name="singUP-alt" anim="laugh" x="465" y="305"/>
+	<anim name="death" anim="dead" x="503.33333333333337" y="468.33333333333337"/>
+</character>

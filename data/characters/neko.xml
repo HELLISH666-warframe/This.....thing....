@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="NekoFreak" icon="lia" color="#ffcc99" x="-120" y="390" camx="80" camy="-70">
+	<anim name="singUP" anim="up" x="-35" y="237"/>
+	<anim name="singDOWN" anim="down" x="30" y="-4"/>
+	<anim name="singRIGHT" anim="right" x="41" y="97"/>
+	<anim name="singLEFT" anim="left" x="-1" y="134"/>
+	<anim name="idle" anim="idle" x="15" y="151" loop="true"/>
+	<anim name="boring" anim="boringAss" x="10" y="216"/>
+	<anim name="stab" anim="stab" x="-131" y="156"/>
+</character>

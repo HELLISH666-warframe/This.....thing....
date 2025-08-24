@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="oh_no_her_starbucks" icon="starbucks" color="#660033" x="460" y="-520" camx="-110" scale="0.8">
+	<anim name="idle" anim="idle" x="18.75" y="188.75" loop="true"/>
+	<anim name="singRIGHT" anim="right" x="-197.5" y="117.5"/>
+	<anim name="singUP" anim="up" x="-18.75" y="221.25"/>
+	<anim name="singDOWN" anim="down" x="-137.5" y="53.75"/>
+	<anim name="singLEFT" anim="left" x="111.25" y="167.5"/>
+	<anim name="what" anim="ahh" x="-17.5" y="218.75"/>
+	<anim name="bro" anim="noway" x="20" y="186.25"/>
+	<anim name="uhh" anim="uhh" x="20" y="190"/>
+</character>

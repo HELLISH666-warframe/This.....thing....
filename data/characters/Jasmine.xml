@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="jazz" icon="jasmine" color="#d79bff" x="20" y="400" camx="80" camy="-140">
+	<anim name="idle" anim="IDLE" x="-15" y="161" loop="true"/>
+	<anim name="singLEFT" anim="left" x="9" y="124"/>
+	<anim name="singUP" anim="up" x="-29" y="187"/>
+	<anim name="singDOWN" anim="down" x="10" y="113"/>
+	<anim name="singRIGHT" anim="right" x="-48" y="123"/>
+	<anim name="hey" anim="papi" x="-24" y="137"/>
+	<anim name="dodge" anim="hot chip" x="-15" y="146"/>
+	<anim name="horn" anim="horny" x="-26" y="257" loop="true"/>
+	<anim name="papi" anim="dontStop" x="-25" y="161"/>
+</character>

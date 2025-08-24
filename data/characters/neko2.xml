@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="neko2" icon="lia" color="#ffcc99" x="-120" y="390" camx="80" camy="-70">
+	<anim name="idle" anim="soWeak" x="7" y="151"/>
+</character>

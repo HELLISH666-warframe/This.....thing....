@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="CasanovaAlt" icon="casanovaalt" color="#ffb0ff" y="330" flipX="true" camx="160" camy="-110">
+	<anim name="idle" anim="Idle" x="35" y="140" loop="true"/>
+	<anim name="singLEFT" anim="left" x="84" y="121"/>
+	<anim name="singDOWN" anim="down" x="110" y="-13"/>
+	<anim name="singUP" anim="up" x="-7" y="169"/>
+	<anim name="singRIGHT" anim="right" x="128" y="82"/>
+	<anim name="singLEFTmiss" anim="miss left" x="73" y="105"/>
+	<anim name="singRIGHTmiss" anim="miss right" x="111" y="72"/>
+	<anim name="singDOWNmiss" anim="miss down" x="109" y="-24"/>
+	<anim name="singUPmiss" anim="miss up" x="-5" y="170"/>
+	<anim name="dodge" anim="damn" x="33" y="155"/>
+	<anim name="singLEFT-alt" anim="alt left" x="60" y="90"/>
+	<anim name="singRIGHT-alt" anim="alt right" x="43" y="110"/>
+	<anim name="singRIGHTmiss-alt" anim="missRightAlt" x="43" y="107"/>
+	<anim name="singLEFTmiss-alt" anim="missLeftAlt" x="68" y="89"/>
+	<anim name="stab" anim="stab" x="156" y="141"/>
+</character>

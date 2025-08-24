@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="CGG_Assets" icon="cg" color="#645fd7" x="40" y="380" camx="110" camy="-250">
+	<anim name="idle" anim="idle" x="-47" y="189" loop="true"/>
+	<anim name="singUP" anim="Gup" x="-52" y="207"/>
+	<anim name="singLEFT" anim="Gleft" x="89" y="202"/>
+	<anim name="singDOWN" anim="Gdown" x="-29" y="147"/>
+	<anim name="singRIGHT" anim="Gright" x="-52" y="201"/>
+	<anim name="uhoh" anim="twitch" x="37" y="188"/>
+</character>

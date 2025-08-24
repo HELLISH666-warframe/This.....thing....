@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="jazzGF" icon="jasmine" color="#d2abf8" x="350" y="60" camx="-180" camy="-10">
+	<anim name="danceRight" anim="GF Dancing Beat" x="100" y="-9" indices="15..29"/>
+	<anim name="danceLeft" anim="GF Dancing Beat" x="100" y="-9" indices="30,0..14"/>
+	<anim name="sad" anim="jazzSad" x="98" y="-12"/>
+</character>

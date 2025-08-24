@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="Cassy_Bike" icon="novabike" color="#ffb0ff" x="60" y="410" flipX="true" camx="290" camy="-428" scale="1.4">
+	<anim name="idle" anim="IDLE" x="29.28571428571429" y="131.42857142857144" loop="true"/>
+	<anim name="singLEFT" anim="LEFT" x="32.142857142857146" y="107.14285714285715"/>
+	<anim name="singDOWN" anim="DOWN" x="58.57142857142858" y="98.57142857142858"/>
+	<anim name="singRIGHT" anim="RIGHT" x="17.857142857142858" y="125.71428571428572"/>
+	<anim name="singUP" anim="UP" x="17.857142857142858" y="153.57142857142858"/>
+	<anim name="singLEFTmiss" anim="missLEFT" x="33.57142857142858" y="113.57142857142858"/>
+	<anim name="singDOWNmiss" anim="missDOWN" x="72.85714285714286" y="105"/>
+	<anim name="singRIGHTmiss" anim="missRIGHT" x="11.428571428571429" y="126.42857142857143"/>
+	<anim name="singUPmiss" anim="missUP" x="21.42857142857143" y="132.14285714285714"/>
+	<anim name="jump" anim="newJump" x="154.2857142857143" y="401.42857142857144"/>
+	<anim name="LEFTshoot" anim="leftSHOOT" x="162.14285714285717" y="165.71428571428572"/>
+	<anim name="UPshoot" anim="shootUP" x="100.71428571428572" y="150.71428571428572"/>
+	<anim name="DOWNshoot" anim="downSHOOT" x="163.57142857142858" y="165.71428571428572"/>
+	<anim name="RIGHTshoot" anim="shootRIGHT" x="97.85714285714286" y="151.42857142857144"/>
+</character>

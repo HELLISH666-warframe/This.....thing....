@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="novaBed" icon="novaBed" color="#ffb0ff" x="10" y="220" flipX="true" camx="160" camy="-140">
+	<anim name="singLEFT" anim="left" x="40" y="164"/>
+	<anim name="singDOWN" anim="down" x="40" y="150"/>
+	<anim name="singUP" anim="up" x="40" y="174"/>
+	<anim name="singRIGHT" anim="right" x="39" y="160"/>
+	<anim name="idle" anim="idle" x="43" y="161" loop="true"/>
+	<anim name="singLEFTmiss" anim="missLeft" x="39" y="164"/>
+	<anim name="singDOWNmiss" anim="missDown" x="43" y="144"/>
+	<anim name="singRIGHTmiss" anim="missRight" x="38" y="159"/>
+	<anim name="singUPmiss" anim="missUp" x="40" y="181"/>
+	<anim name="deathLoop" anim="deadLoop" x="310" y="-118" loop="true"/>
+	<anim name="deathConfirm" anim="deadConfirm" x="310" y="-111"/>
+	<anim name="firstDeath" anim="firstDeath" x="310" y="-110"/>
+	<anim name="hurt" anim="hurt" x="39" y="171"/>
+</character>

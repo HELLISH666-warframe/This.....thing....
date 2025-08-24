@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="deathBike" icon="novabike" color="#ffb0ff" x="60" y="410" flipX="true" camx="290" camy="-428" scale="1.4">
+	<anim name="firstDeath" anim="firstDeath" x="235.71428571428572" y="-270.7142857142857"/>
+	<anim name="deathLoop" anim="deadLoop" x="30.000000000000004" y="-281.42857142857144" loop="true"/>
+	<anim name="deathConfirm" anim="deadConfirm" x="27.142857142857146" y="-247.85714285714286"/>
+</character>

@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-character>
+<!-- Made with WizardMantis's Character Converter on https://codename-engine.com/ -->
+<character sprite="jazzPlayable" icon="jasmine" color="#d2abf8" x="20" y="400" camx="80" camy="-150">
+	<anim name="singUP" anim="up" x="-36" y="185"/>
+	<anim name="singDOWN" anim="down" x="-52" y="103"/>
+	<anim name="singUPmiss" anim="missUp" x="-35" y="200"/>
+	<anim name="singDOWNmiss" anim="missDown" x="-67" y="112"/>
+	<anim name="singRIGHT" anim="left" x="-41" y="116"/>
+	<anim name="singLEFT" anim="right" x="79" y="121"/>
+	<anim name="singRIGHTmiss" anim="missLeft" x="-42" y="151"/>
+	<anim name="singLEFTmiss" anim="missRight" x="71" y="131"/>
+	<anim name="idle" anim="IDLE" x="0" y="166"/>
+	<anim name="firstDeath" anim="firstDeath" x="130" y="-50"/>
+	<anim name="deathConfirm" anim="confirm" x="129" y="-22"/>
+	<anim name="deathLoop" anim="deadLoop" x="129" y="-50" loop="true"/>
+</character>
